@@ -24,7 +24,7 @@ The experiments are conducted using the Breast Cancer MSI Multimodal Image Datas
 
 The dataset is publicly available at:
 ```bash
-https://www.kaggle.com/datasets/zoya77/breast-cancer-msi-multimodal-image-dataset
+ https://tinyurl.com/3c44m8ws
 ```
 Update the dataset path inside each notebook before execution.
 
